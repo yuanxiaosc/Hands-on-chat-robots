@@ -9,3 +9,11 @@ This chat robot mainly uses NLTK library to calculate the TF-IDF values of user 
 
 ### Chat robot effect display
 ![Simple chat robot based on python NLTK library effect display](https://cdn-images-1.medium.com/max/800/1*pPcVfZ7i-gLMabUol3zezA.gif)
+
+
+## [snips-nlu-tutorial for Slot Filling and Intent Prediction](https://github.com/yuanxiaosc/Hands-on-chat-robots/tree/master/snips-nlu-tutorial%20for%20Slot%20Filling%20and%20Intent%20Prediction)
+> RUN [snips-nlu-tutorial for Slot Filling and Intent Prediction.ipynb](https://nbviewer.jupyter.org/github/yuanxiaosc/Hands-on-chat-robots/blob/master/snips-nlu-tutorial%20for%20Slot%20Filling%20and%20Intent%20Prediction/snips-nlu-tutorial%20for%20Slot%20Filling%20and%20Intent%20Prediction.ipynb)
+
+### Main method
+![Snips NLU Processing Pipeline](https://cdn-images-1.medium.com/max/2000/0*Ti7i79hqYC-0lEYM.)
+Pattern Matching + Logistic Regression + CRFs
